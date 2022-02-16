@@ -37,10 +37,14 @@
   <img align="center" alt="Giu-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Giu-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Giu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  
+  ##
+  
+     ![Snake animation](https://github.com/giugalbiati/giugalbiati/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
- ##
+ 
 
-    ![Snake animation](https://github.com/giugalbiati/giugalbiati/blob/output/github-contribution-grid-snake.svg)
 
   
