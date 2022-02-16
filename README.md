@@ -10,20 +10,6 @@
 - 📫 Contate-me: giugalbi@hotmail.com
 - <a href="https://www.linkedin.com/in/giulia-galbiati-544bab1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<details>
-  <br>
-  <p align="center"> ᴅᴇʟᴀsᴀʀᴛᴇs🎨 </p>
-    
-  <a href='https://delasartes.vercel.app/home' target="_blank"> <p align="center"> <img  alt="Logo_delasArtes" height="200" width="600" src="https://imgur.com/Kmll7cQ.png"></p>
-  </a>
-  
-  <p align="center"> ᴘʀᴏᴊᴇᴛᴏ ʀᴇᴀʟɪᴢᴀᴅᴏ ᴅᴜʀᴀɴᴛᴇ ᴏ ʙᴏᴏᴛᴄᴀᴍᴘ ᴅᴀ ɢᴇɴᴇʀᴀᴛɪᴏɴ ʙʀᴀsɪʟ </p>
-  
- <p>E-commerce em formato de galeria online, com objetivo de proporcionar a mulheres artistas/artesãs, especificamente as de minorias sociais/classes baixas, a oportunidade de vender seus produtos mundialmente com lucros justos, alta visibilidade e chances de crescimento no ramo artístico.</p>
-
-<br>
-</details>
-
 <div align="center">
   <a href="https://github.com/giugalbiati">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=giugalbiati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -59,6 +45,20 @@
   ![Snake animation](https://github.com/giugalbiati/giugalbiati/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  <details>
+  <br>
+  <p align="center"> ᴅᴇʟᴀsᴀʀᴛᴇs🎨 </p>
+    
+  <a href='https://delasartes.vercel.app/home' target="_blank"> <p align="center"> <img  alt="Logo_delasArtes" height="200" width="600" src="https://imgur.com/Kmll7cQ.png"></p>
+  </a>
+  
+  <p align="center"> ᴘʀᴏᴊᴇᴛᴏ ʀᴇᴀʟɪᴢᴀᴅᴏ ᴅᴜʀᴀɴᴛᴇ ᴏ ʙᴏᴏᴛᴄᴀᴍᴘ ᴅᴀ ɢᴇɴᴇʀᴀᴛɪᴏɴ ʙʀᴀsɪʟ </p>
+  
+ <p>E-commerce em formato de galeria online, com objetivo de proporcionar a mulheres artistas/artesãs, especificamente as de minorias sociais/classes baixas, a oportunidade de vender seus produtos mundialmente com lucros justos, alta visibilidade e chances de crescimento no ramo artístico.</p>
+
+<br>
+</details>
  
 
 
