@@ -4,7 +4,7 @@
   <a href="https://github.com/giugalbiati/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
 </p>
 
-- 👩‍💻 Desenvolvedora Web Full Stack Jr 
+- 👩‍💻 Desenvolvedora Web Full Stack Jr                                 
 - 👩‍🎓 Formada pela Generation Brasil
 - ♀️ Pronome: Ela/Dela
 - 📫 Contate-me: giugalbi@hotmail.com
@@ -46,6 +46,8 @@
   
 </div>
   
+<div align="center">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/aae7b9b25b3465ddb821f20ef1338d6c.gif" width="300" height="264" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   <details>
   <br>
   <a href='https://delasartes.vercel.app/home' target="_blank"> <p align="center"> ᴅᴇʟᴀsᴀʀᴛᴇs🎨 </p>
@@ -58,7 +60,8 @@
  <p>E-commerce em formato de galeria online, com objetivo de proporcionar a mulheres artistas/artesãs, especificamente as de minorias sociais/classes baixas, a oportunidade de vender seus produtos mundialmente com lucros justos, alta visibilidade e chances de crescimento no ramo artístico.</p>
 
 <br>
-</details>
+  </details>
+</div>
  
 
 
