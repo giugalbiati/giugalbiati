@@ -4,11 +4,14 @@
   <a href="https://github.com/giugalbiati/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
 </p>
 
-- 👩‍💻 Desenvolvedora Web Full Stack Jr                                 
-- 🎓 Generation Brasil
-- ♀️ Ela/Dela
-- 📫 giugalbi@hotmail.com
-- <a href="https://www.linkedin.com/in/giulia-galbiati-544bab1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#### 👩‍💻 Desenvolvedora Web Full Stack Jr                                 
+#### 🎓 Generation Brasil
+#### 📍 São Paulo
+#### ♀️ Ela/Dela
+#### 📫 giugalbi@hotmail.com
+#### <a href="https://www.linkedin.com/in/giulia-galbiati-544bab1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<br>
 
 <div align="center">
   <a href="https://github.com/giugalbiati">
