@@ -1,13 +1,13 @@
-###  <h1  align="center"> 𝕺𝖑𝖆́, 𝖒𝖊𝖚 𝖓𝖔𝖒𝖊 𝖊́ 𝕲𝖎𝖚𝖑𝖎𝖆. 𝕭𝖊𝖒 𝖛𝖎𝖓𝖉𝖊𝖘 𝖆𝖔 𝖒𝖊𝖚 𝕲𝖎𝖙𝖍𝖚𝖇! 🚀 </h1> 
+###  <h1  align="center"> 𝕲𝖎𝖚𝖑𝖎𝖆 𝕲𝖆𝖑𝖇𝖎𝖆𝖙𝖎 - 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛🚀 </h1> 
 
 <p align="center">
   <a href="https://github.com/giugalbiati/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
 </p>
 
 - 👩‍💻 Desenvolvedora Web Full Stack Jr                                 
-- 👩‍🎓 Formada pela Generation Brasil
-- ♀️ Pronome: Ela/Dela
-- 📫 Contate-me: giugalbi@hotmail.com
+- 🎓 Generation Brasil
+- ♀️ Ela/Dela
+- 📫 giugalbi@hotmail.com
 - <a href="https://www.linkedin.com/in/giulia-galbiati-544bab1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
